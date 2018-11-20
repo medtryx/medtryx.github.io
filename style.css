@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+body {
+    /* background-image: url("background2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    background-color: black;
+}
+
+h1 {
+    margin: auto;
+    color: #2955C0;
+    font-family: 'Open Sans', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#btndocwho {
+    display: flex;
+    margin: auto;
+    justify-items: center;
+    color: #00203c;
+    background-color: #6f8ea9;
+}
+
+#mc_embed_signup {
+    display: flex;
+    margin: auto;
+    justify-items: center;
+}
+
+#imgmoon {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+}
